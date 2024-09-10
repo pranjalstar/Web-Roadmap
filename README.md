@@ -2,7 +2,10 @@
 <body>
 
 <h1>Web Development Roadmap</h1>
-
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://cosmofeed.com/vp/65c5a99ff26672001eebe565"><li>Mern Stack Web Dev Bundle</li></a>
+</ul>
 <h2>1. Understanding the Basics of the Web</h2>
 <h3>1.1. What is the Internet?</h3>
 <ul>
@@ -53,6 +56,12 @@
     <li><strong>Branching and Merging:</strong> Understand how to create branches, merge them, and resolve conflicts.</li>
     <li><strong>Advanced Commands:</strong> Explore advanced Git commands like rebase, stash, and cherry-pick.</li>
 </ul>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://youtu.be/apGV9Kg7ics?si=TkvISpMNhYvzw_Xg"><li>Complete Git Tutorial</li></a>
+   <a href="https://www.w3schools.com/git/"><li>W3Schools</li></a>
+</ul>
+
 
 <h3>2.2. GitHub</h3>
 <ul>
@@ -63,13 +72,22 @@
     <li><strong>Issues and Project Management:</strong> Explore GitHub’s issue tracking and project management features.</li>
     <li><strong>GitHub Actions:</strong> Introduction to GitHub Actions for continuous integration and deployment (CI/CD).</li>
 </ul>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://youtu.be/apGV9Kg7ics?si=TkvISpMNhYvzw_Xg"><li>Complete GitHub Tutorial</li></a>
+   <a href="https://www.javatpoint.com/what-is-github"><li>JavaPoint</li></a>
+</ul>
 
 <h2>3. HTML (HyperText Markup Language)</h2>
 <p><strong>Resources:</strong></p>
 <ul>
-      <a href="https://www.w3schools.com/html/"> <li>W3Schools</li></a>
-    <li>MDN Web Docs</li>
-    <li>HTML Playlist</li>
+    <a href="https://www.w3schools.com/html/"> <li>W3Schools</li></a>
+    <a href="https://coderstar.in/tutorials/html/html.html"><li>CoderStar</li></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">   <li>MDN Web Docs</li></a>
+    <a href="https://youtu.be/HcOc7P5BMi4?si=RRr6HKEBaVviCI5r"><li>HTML Playlist</li></a>
+    <a href="https://youtu.be/rklidcZ-aLU?si=RssYO9RzR-vVj97P"><li>HTML Complete Course</li></a>
+    <a href="https://coderstar.in/Notes/javanotes.html"><li>HTML Handwritten Notes</li></a>
+    
 </ul>
 
 <h3>3.1. Basics of HTML</h3>
@@ -97,9 +115,11 @@
 <h2>4. CSS (Cascading Style Sheets)</h2>
 <p><strong>Resources:</strong></p>
 <ul>
-    <li>W3Schools</li>
-    <li>MDN Web Docs</li>
-    <li>CSS Playlist</li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><li>MDN Web Docs</li></a>
+    <a href="https://www.w3schools.com/w3css/defaulT.asp"> <li>W3Schools</li></a>
+    <a href="https://youtu.be/ESnrn1kAD4E?si=XAdT5j7eeagxa0B1"><li>CSS Playlist</li></a>
+    <a href="https://coderstar.in/2024/css-handwritten-notes.html"><li>CSS Handwritten Notes</li></a>
+
 </ul>
 
 <h3>4.1. Basics of CSS</h3>
@@ -129,10 +149,11 @@
 <h2>5. JavaScript (JS)</h2>
 <p><strong>Resources:</strong></p>
 <ul>
-    <li>W3Schools</li>
-    <li>MDN Web Docs</li>
-    <li>Chai aur JavaScript</li>
-    <li>The JS Playlist</li>
+    <a href="https://www.w3schools.com/js/default.asp">  <li>W3Schools</li></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><li>MDN Web Docs</li></a>
+     <a href="https://www.youtube.com/watch?v=-GoKoR6aLcY&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=3"><li>Chai aur JavaScript</li></a>
+    <a href="https://www.youtube.com/watch?v=bBpKJccIdvQ&list=PLjpp5kBQLNTSvHo6Rp4Ky0X8x_MabmKye"> <li>JS Playlist</li></a>
+    <a href="https://coderstar.in/Notes/jsnotes.html"><li>JavaScript Handwritten Notes</li></a>
 </ul>
 
 <h3>5.1. Basics of JavaScript</h3>
@@ -220,6 +241,10 @@
 </ul>
 
 <h2>8. Full-Stack Development</h2>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://cosmofeed.com/vp/65c5a99ff26672001eebe565"><li>Mern Stack Web Dev Bundle</li></a>
+</ul>
 <h3>8.1. MERN Stack</h3>
 <ul>
     <li><strong>MongoDB:</strong> Learn about MongoDB for database management.</li>
@@ -252,12 +277,18 @@
 </ul>
 
 <h2>10. Additional Resources</h2>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://cosmofeed.com/vp/65c5a99ff26672001eebe565"><li>Mern Stack Web Dev Bundle</li></a>
+</ul>
 <h3>10.1. Learning Platforms</h3>
 <ul>
-    <li>FreeCodeCamp</li>
-    <li>Codecademy</li>
-    <li>Coursera</li>
-    <li>Udacity</li>
+    <a href="https://coderstar.in"><li>CoderStar</li></a>
+    <a href="https://www.freecodecamp.org/"> <li>FreeCodeCamp</li></a>
+    <a href="https://www.codecademy.com/"><li>Codecademy</li></a>
+    <a href="https://www.coursera.org/"><li>Coursera</li></a>
+    <a href="https://www.udacity.com/"><li>Udacity</li></a>
+    
 </ul>
 
 <h3>10.2. Communities</h3>
@@ -269,10 +300,12 @@
 
 <h3>10.3. Blogs and Articles</h3>
 <ul>
-    <li>CSS-Tricks</li>
-    <li>Smashing Magazine</li>
-    <li>Dev.to</li>
+    <a href="https://css-tricks.com/"> <li>CSS-Tricks</li></a>   
+    <a href="https://www.smashingmagazine.com/"> <li>Smashing Magazine</li></a>
+    <a href="https://dev.to/"> <li>Dev.to</li></a>
+   
 </ul>
+
 
 </body>
 </html>
