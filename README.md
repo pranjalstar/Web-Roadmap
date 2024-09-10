@@ -10,6 +10,11 @@
     <li><strong>How the Internet Works:</strong> Understand the basic workings of the internet, including concepts like data packets and IP addresses.</li>
     <li><strong>Key Internet Protocols:</strong> Explore essential protocols such as IP, TCP, and UDP that enable internet communication.</li>
 </ul>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://youtu.be/YtxLexm-9pI?si=suIHIIE1U8O8nf6f"><li>Internet</li></a>
+    <a href="https://www.geeksforgeeks.org/what-is-internet-definition-uses-working-advantages-and-disadvantages/"><li>What is Internet?</li></a>
+</ul>
 
 <h3>1.2. HTTP and HTTPS</h3>
 <ul>
@@ -18,6 +23,12 @@
     <li><strong>Status Codes:</strong> Understand different HTTP status codes and what they signify.</li>
     <li><strong>HTTPS and SSL/TLS:</strong> Learn about secure HTTP, SSL/TLS certificates, and how they protect data transmission.</li>
 </ul>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://youtu.be/H7bDwI5nUl8?si=XZPXkeQ0kQmazQDA"><li> WWW, http vs https, IP Address ,URL , Client & Server</li></a>
+   <a href="https://www.javatpoint.com/http-vs-https"><li>HTTP vs HTTPS</li></a>
+</ul>
+
 
 <h3>1.3. Client-Server Model</h3>
 <ul>
@@ -26,6 +37,12 @@
     <li><strong>Role of Client and Server:</strong> Learn the functions of both client-side and server-side components.</li>
     <li><strong>Examples of Client and Server Software:</strong> Familiarize yourself with common client and server software applications.</li>
 </ul>
+<p><strong>Resources:</strong></p>
+<ul>
+    <a href="https://www.geeksforgeeks.org/client-server-model/"><li>GeeksForGeeks</li></a>
+   <a href="https://youtu.be/L5BlpPU_muY?si=3LIVG_wNUmXgBLPX"><li>Client-Server Model</li></a>
+</ul>
+
 
 <h2>2. Version Control Systems</h2>
 <h3>2.1. Git</h3>
