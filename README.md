@@ -50,7 +50,7 @@
 <h2>3. HTML (HyperText Markup Language)</h2>
 <p><strong>Resources:</strong></p>
 <ul>
-    <li>W3Schools</li>
+      <a href="https://www.w3schools.com/html/"> <li>W3Schools</li></a>
     <li>MDN Web Docs</li>
     <li>HTML Playlist</li>
 </ul>
